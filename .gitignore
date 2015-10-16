@@ -1,0 +1,8 @@
+*.sln
+*.exe
+*.opensdf
+*.sdf
+*.o
+*.vcxproj
+*.vcxproj.filters
+.vs/
